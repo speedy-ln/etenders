@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.7'
 
 
 # Scrapper Dependencies/Libraries
-gem 'nokogiri', '~> 1.10'
+gem 'nokogiri', '~> 1.11'
 gem 'httparty', '~> 0.17.1'
 
 # Use Active Storage variant
